@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <button onclick="showNumbers()">Test me</button>
+    <div id="users">
+
+
+
+
+
+    </div>
+
+
+
+
+
+    <script>
+
+        let jUser = {}
+
+        jUser.name = 'Markus';
+        jUser.lastName = 'Hylleberg';
+
+        delete jUser.lastName;
+
+        // console.log(jUser);
+
+
+
+    function testMe(name, lastName){
+
+
+        return name+' '+lastName;
+
+    }
+
+
+    console.log(testMe('Markus', 'Hylleberg'));
+
+
+    function showNumbers(){
+
+
+
+    for( let i = 0; i < 1000; i++ ){
+
+        let newDiv = document.createElement('div');
+
+        newDiv.innerHTML = i;
+
+        document.querySelector('#users').appendChild(newDiv);
+
+    }
+
+
+
+
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </script>
+
+    
+</body>
+</html>

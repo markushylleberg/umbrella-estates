@@ -1,0 +1,941 @@
+{
+    "users": {
+        "5d80ae9cba63d": {
+            "id": "5d80ae9cba63d",
+            "firstname": "Astrid",
+            "lastname": "Toft",
+            "email": "sofustoft-ue@email-ue.com",
+            "password": "user123",
+            "activationKey": "5d80ae9cba7db",
+            "activated": 0,
+            "profilepicture": "5dfcbd4be4db25d80decc82aed.jpg",
+            "liked": {
+                "5d80b8343a7dc": "",
+                "5d80bcabb8c88": "",
+                "5d80bbd6117de": "",
+                "5d80bd20508e4": "",
+                "5d80c0842af4d": "",
+                "5d80ba9bc1322": "",
+                "5d80e35e6e353": ""
+            }
+        },
+        "5d80aece87028": {
+            "id": "5d80aece87028",
+            "firstname": "Henning",
+            "lastname": "Juul",
+            "email": "henningjul-umbrella-estates@email.com",
+            "password": "user123",
+            "activationKey": "5d80aece8703a",
+            "activated": 0,
+            "profilepicture": "5d80aece8706c.jpg",
+            "liked": {
+                "5d80ba9bc1322": "",
+                "5d80bbd6117de": "",
+                "5d80b8343a7dc": "",
+                "5d80be05126f4": "",
+                "5d80bcabb8c88": "",
+                "5d80c0842af4d": ""
+            }
+        },
+        "5d80aef4cd0ad": {
+            "id": "5d80aef4cd0ad",
+            "firstname": "Frederik",
+            "lastname": "Klausen",
+            "email": "frederikklausen-umbrella-estates@email.com",
+            "password": "user123",
+            "activationKey": "5d80aef4cd0b8",
+            "activated": 0,
+            "profilepicture": "5d80aef4cd0d7.jpg",
+            "liked": {
+                "5d80ba9bc1322": "",
+                "5d80b8343a7dc": "",
+                "5d80bbd6117de": "",
+                "5d80bf590e8e5": "",
+                "5d80c0842af4d": "",
+                "5d80c1612d260": ""
+            }
+        },
+        "5d80af4dae7c0": {
+            "id": "5d80af4dae7c0",
+            "firstname": "Anni",
+            "lastname": "Jensen",
+            "email": "annijensen-umbrella-estates@email.com",
+            "password": "user123",
+            "activationKey": "5d80af4dae7c4",
+            "activated": 0,
+            "profilepicture": "5d80af4dae7d7.jpeg",
+            "liked": {
+                "5d80b8343a7dc": "",
+                "5d80be05126f4": "",
+                "5d80c1612d260": "",
+                "5d80c0842af4d": "",
+                "5d80bf590e8e5": "",
+                "5d80bd20508e4": ""
+            }
+        },
+        "5d80af70d7db7": {
+            "id": "5d80af70d7db7",
+            "firstname": "Tue",
+            "lastname": "Villadsen",
+            "email": "tuevilladsen-umbrella-estates@email.com",
+            "password": "user123",
+            "activationKey": "5d80af70d7dc5",
+            "activated": 0,
+            "profilepicture": "5d80af70d7df0.jpg",
+            "liked": {
+                "5d80b8343a7dc": "",
+                "5d80bcabb8c88": "",
+                "5d80bbd6117de": "",
+                "5d80c1612d260": "",
+                "5d80c0842af4d": ""
+            }
+        },
+        "5d80af9c62c06": {
+            "id": "5d80af9c62c06",
+            "firstname": "Caroline",
+            "lastname": "Christiansen",
+            "email": "carolinechristiansen-umbrella-estates@email.com",
+            "password": "user123",
+            "activationKey": "5d80af9c62c0a",
+            "activated": 0,
+            "profilepicture": "5d80af9c62c1c.jpg",
+            "liked": {
+                "5d80bbd6117de": "",
+                "5d80ba9bc1322": "",
+                "5d80bfef9fba8": "",
+                "5d80c0842af4d": "",
+                "5d80c1612d260": ""
+            }
+        },
+        "5d80afd4644f9": {
+            "id": "5d80afd4644f9",
+            "firstname": "Mads",
+            "lastname": "Andersen",
+            "email": "madsandersen-umbrella-estates@email.com",
+            "password": "user123",
+            "activationKey": "5d80afd46450a",
+            "activated": 0,
+            "profilepicture": "5d80afd464536.jpg",
+            "liked": {
+                "5d80b8343a7dc": "",
+                "5d80bcabb8c88": "",
+                "5d80c0842af4d": "",
+                "5d80c1612d260": "",
+                "5d80bfef9fba8": ""
+            }
+        },
+        "5d80b059a17b5": {
+            "id": "5d80b059a17b5",
+            "firstname": "Ulrikke",
+            "lastname": "Thomsen",
+            "email": "ulrikkethomsen@email.com",
+            "password": "user123",
+            "activationKey": "5d80b059a17b8",
+            "activated": 0,
+            "profilepicture": "5d80b059a17be.jpg",
+            "liked": {
+                "5d80c0842af4d": "",
+                "5d80c1612d260": "",
+                "5d8a2f9bc51d8": ""
+            }
+        },
+        "5d80b07aab87c": {
+            "id": "5d80b07aab87c",
+            "firstname": "Emilie",
+            "lastname": "M\u00f8ller",
+            "email": "emiliemoller-umbrella-estates@email.com",
+            "password": "user123",
+            "activationKey": "5d80b07aab888",
+            "activated": 0,
+            "profilepicture": "5d80b07aab8a7.jpg",
+            "liked": {
+                "5d80c0842af4d": "",
+                "5d80bcabb8c88": "",
+                "5d80bbd6117de": "",
+                "5d80bfef9fba8": "",
+                "5d80bf590e8e5": ""
+            }
+        },
+        "5d80b091ac4fd": {
+            "id": "5d80b091ac4fd",
+            "firstname": "Ditte",
+            "lastname": "Bruun",
+            "email": "dittebruun-umbrella-estates@email.com",
+            "password": "user123",
+            "activationKey": "5d80b091ac505",
+            "activated": 0,
+            "profilepicture": "5d80b091ac517.jpg",
+            "liked": {
+                "5d80bbd6117de": "",
+                "5d80ba9bc1322": "",
+                "5d80c0842af4d": "",
+                "5d80c1612d260": "",
+                "5d80bfef9fba8": ""
+            }
+        },
+        "5d80c65f7ab93": {
+            "id": "5d80c65f7ab93",
+            "firstname": "Ulrikke",
+            "lastname": "Falchen",
+            "email": "ulrikkefalchen-umbrella@email.com",
+            "password": "user123",
+            "activationKey": "5d80c65f7aba9",
+            "activated": 0,
+            "profilepicture": "5d80c65f7abcf.jpg",
+            "liked": {
+                "5d80bcabb8c88": "",
+                "5d80c0842af4d": "",
+                "5d80c1612d260": "",
+                "5d80bbd6117de": ""
+            }
+        },
+        "5d80d5739f747": {
+            "id": "5d80d5739f747",
+            "firstname": "Mads",
+            "lastname": "Andersen",
+            "email": "madsandersen-umbrella@email.com",
+            "password": "user123",
+            "activationKey": "5d80d5739f759",
+            "activated": 0,
+            "profilepicture": "defaultNewUser.png",
+            "liked": {
+                "5d80ba9bc1322": "",
+                "5d80bd20508e4": "",
+                "5d80c0842af4d": ""
+            }
+        },
+        "5d80e7f395c6c": {
+            "id": "5d80e7f395c6c",
+            "firstname": "Amanda",
+            "lastname": "Friis",
+            "email": "amandafriis-umbrella@email.com",
+            "password": "user123",
+            "activationKey": "5d80e7f395c72",
+            "activated": 0,
+            "profilepicture": "5d80e7f395c81.jpeg",
+            "liked": {
+                "5d80e77946379": "",
+                "5d80e6c955192": "",
+                "5d80bcabb8c88": "",
+                "5d80c0842af4d": "",
+                "5d80e3ce9f23f": ""
+            }
+        },
+        "5d80e8858b50a": {
+            "id": "5d80e8858b50a",
+            "firstname": "Rikke",
+            "lastname": "Steffensen",
+            "email": "rikkesteffensen-umbrella@email.com",
+            "password": "user123",
+            "activationKey": "5d80e8858b50f",
+            "activated": 0,
+            "profilepicture": "5d80e8858b515.jpg",
+            "liked": {
+                "5d80daed6cea0": "",
+                "5d80e35e6e353": "",
+                "5d80e3ce9f23f": "",
+                "5d80e77946379": "",
+                "5d80e6c955192": "",
+                "5d80e58dc1aac": "",
+                "5d80e48a7d14f": "",
+                "5d80df7025d90": "",
+                "5d80e4f878b2e": "",
+                "5d80ba9bc1322": "",
+                "5d80c0842af4d": ""
+            }
+        },
+        "5d8a2fefbcc0b": {
+            "id": "5d8a2fefbcc0b",
+            "firstname": "Markus",
+            "lastname": "Hylleberg",
+            "email": "markushylleberg@gmail.com",
+            "password": "user123",
+            "activationKey": "5d8a2fefbcc19",
+            "activated": 1,
+            "profilepicture": "5d8a2fefbcc28.jpg",
+            "liked": {
+                "5d8a2f9bc51d8": "",
+                "5d80ba9bc1322": "",
+                "5d80b8343a7dc": "",
+                "5d80c0842af4d": ""
+            }
+        }
+    },
+    "agents": {
+        "agent5d80b2072001d": {
+            "id": "agent5d80b2072001d",
+            "firstname": "Ella",
+            "lastname": "Jessen",
+            "email": "ellajessen-umbrella-estates@email.com",
+            "password": "agent123",
+            "address": "Kamperhoug 81",
+            "city": "6630 R\u00f8dding",
+            "country": "Denmark",
+            "activationKey": "5d80b20720021",
+            "activated": 0,
+            "profilepicture": "5d80b2071fbf0.jpg",
+            "properties": {
+                "5d80b8343a7dc": {
+                    "title": "Fredericiagade",
+                    "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Copenhagen, perfect for those looking for a functional and high standard accommodation.",
+                    "zip": "1499",
+                    "city": "K\u00f8benhavn K",
+                    "address": "Fredericiagade 69, 4.th",
+                    "price": 333333,
+                    "bedrooms": 4,
+                    "bathrooms": 1,
+                    "meters": 154,
+                    "viewed": 0,
+                    "liked": 7,
+                    "image": "5d80b95b34b31appartment5.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80b23919c58": {
+            "id": "agent5d80b23919c58",
+            "firstname": "Joachim",
+            "lastname": "Svendsen",
+            "email": "joachimsvendsen-umbrella-estates@email.com",
+            "password": "agent123",
+            "address": "\u00d8ksendrupvej 59",
+            "city": "1321 K\u00f8benhavn K",
+            "country": "Denmark",
+            "activationKey": "5d80b23919c5d",
+            "activated": 0,
+            "profilepicture": "5d80b239197ab.jpg",
+            "properties": {
+                "5d80ba9bc1322": {
+                    "title": "Gothersgade",
+                    "description": "The floor plan encompasses four spacious bedrooms with plenty of room for study, sleep and storage, three luxurious bathrooms, and a sleek and stylish kitchen that flows through to the dining room and private rear patio.",
+                    "zip": "1499",
+                    "city": "K\u00f8benhavn K",
+                    "address": "Gothersgade 104, 3.th",
+                    "price": 1980000,
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "meters": 165,
+                    "viewed": 0,
+                    "liked": 8,
+                    "image": "5d80ba9bc0d9eappartment6.jpg",
+                    "uploaded": "17-Sep-19"
+                },
+                "5d8a2f9bc51d8": {
+                    "title": "Godth\u00e5bsvej",
+                    "description": "Cool, calm and sophisticated with a youthful edge, this functional home is enveloped in light and comfort. Crisp white walls, timber floors and high ceilings create a style as timeless as the sparkling ocean view. The calming sea vista, captured through the extensive use of glass, will help you forget your city stress.",
+                    "zip": "2000",
+                    "city": "Frederiksberg",
+                    "address": "Godth\u00e5bsvej 56",
+                    "price": 2300000,
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "meters": 140,
+                    "viewed": 0,
+                    "liked": 2,
+                    "image": "5d8a2f9bc4b78newap4.jpg",
+                    "uploaded": "24-Sep-19"
+                }
+            }
+        },
+        "agent5d80b2716edf6": {
+            "id": "agent5d80b2716edf6",
+            "firstname": "Torben",
+            "lastname": "Lassen",
+            "email": "torbenlassen-umbrella-estates@email.com",
+            "password": "agent123",
+            "address": "Svinget 50",
+            "city": "9632 M\u00f8ldrup",
+            "country": "Denmark",
+            "activationKey": "5d80b2716ee03",
+            "activated": 0,
+            "profilepicture": "5d80b2716e88d.jpg",
+            "properties": {
+                "5d80bbd6117de": {
+                    "title": "\u00d8stbanegade",
+                    "description": "Cool, calm and sophisticated with a youthful edge, this functional home is enveloped in light and comfort. Crisp white walls, timber floors and high ceilings create a style as timeless as the sparkling ocean view. The calming sea vista, captured through the extensive use of glass, will help you forget your city stress.",
+                    "zip": "2100",
+                    "city": "K\u00f8benhavn \u00d8",
+                    "address": "\u00d8stbanegade 32, 1.tv",
+                    "price": 1100000,
+                    "bedrooms": 2,
+                    "bathrooms": 1,
+                    "meters": 90,
+                    "viewed": 0,
+                    "liked": 8,
+                    "image": "5d80bbd610e21apartment3.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80b2a8f1798": {
+            "id": "agent5d80b2a8f1798",
+            "firstname": "Rebecca",
+            "lastname": "Jacobsen",
+            "email": "rebeccajacobsen-umbrella@email.com",
+            "password": "agent123",
+            "address": "Skelv\u00e6nget 78",
+            "city": "1410 K\u00f8benhavn K",
+            "country": "Denmark",
+            "activationKey": "5d80b2a8f17a3",
+            "activated": 0,
+            "profilepicture": "5d80b2a8f1599.jpeg",
+            "properties": {
+                "5d80bcabb8c88": {
+                    "title": "Sankt Ann\u00e6 Plads",
+                    "description": "This immaculately presented apartment is set amongst manicured grounds within a private and secure complex. As a resident you will have access to lifestyle amenities including a lap pool, gymnasium, communal terraces, concierge service and basement parking.",
+                    "zip": "1499",
+                    "city": "K\u00f8benhavn K",
+                    "address": "Sankt Ann\u00e6 Plads 4, 5",
+                    "price": 32000000,
+                    "bedrooms": 4,
+                    "bathrooms": 2,
+                    "meters": 168,
+                    "viewed": 0,
+                    "liked": 7,
+                    "image": "5d80bcabb86f6apartment4.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80b2d9dfbdd": {
+            "id": "agent5d80b2d9dfbdd",
+            "firstname": "Laura",
+            "lastname": "Koch",
+            "email": "laurakoch-umbrella@email.com",
+            "password": "agent123",
+            "address": "Havnegade 23",
+            "city": "7600 Struer",
+            "country": "Denmark",
+            "activationKey": "5d80b2d9dfbe1",
+            "activated": 0,
+            "profilepicture": "5d8118825fcedagent5.jpg",
+            "properties": {
+                "5d80bd20508e4": {
+                    "title": "\u00d8ster S\u00f8gade",
+                    "description": "Hidden away on the fringe of the city is this charming four bedroom residence plus study on a lush, leafy oasis. On the entry level is a rumpus room complete with fireplace, garage access, laundry and recently remodeled bathroom.",
+                    "zip": "1499",
+                    "city": "K\u00f8benhavn K",
+                    "address": "\u00d8ster S\u00f8gade 88, 3.tv",
+                    "price": 1400000,
+                    "bedrooms": 3,
+                    "bathrooms": 1,
+                    "meters": 98,
+                    "viewed": 0,
+                    "liked": 3,
+                    "image": "5d80bd205029eapartment5.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80b309c2e3c": {
+            "id": "agent5d80b309c2e3c",
+            "firstname": "Patrick",
+            "lastname": "Berg",
+            "email": "patrickberg-umbrella@email.com",
+            "password": "agent123",
+            "address": "Christianslundsvej 77",
+            "city": "3250 Gilleleje",
+            "country": "Denmark",
+            "activationKey": "5d80b309c2e40",
+            "activated": 0,
+            "profilepicture": "5d80b309c2cbc.jpg",
+            "properties": {
+                "5d80be05126f4": {
+                    "title": "Rosendalsgade",
+                    "description": "This immaculately presented apartment is set amongst manicured grounds within a private and secure complex. As a resident you will have access to lifestyle amenities including a lap pool, gymnasium, communal terraces, concierge service and basement parking.",
+                    "zip": "2100",
+                    "city": "K\u00f8benhavn \u00d8",
+                    "address": "Rosendalsgade 9, 5.tv",
+                    "price": 1980000,
+                    "bedrooms": 5,
+                    "bathrooms": 1,
+                    "meters": 110,
+                    "viewed": 0,
+                    "liked": 2,
+                    "image": "5d80be39927b6apartment7.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80b33c8b659": {
+            "id": "agent5d80b33c8b659",
+            "firstname": "Tosh",
+            "lastname": "Jeppesen",
+            "email": "toshjeppesen-umbrella@email.com",
+            "password": "agent123",
+            "address": "\u00d8ksendrupvej 26",
+            "city": "1319 K\u00f8benhavn K",
+            "country": "Denmark",
+            "activationKey": "5d80b33c8b65c",
+            "activated": 0,
+            "profilepicture": "5d80b33c8b51a.png",
+            "properties": {
+                "5d80bf590e8e5": {
+                    "title": "Tagensvej",
+                    "description": "This cozy cottage is nestled against a spectacular coastal backdrop with an unbroken view of the sea and a faraway coastline. With an environmentally conscious design that maximizes home efficiency, this spectacular, modern family home provides plenty of space for entertaining. This truly is a dream abode for the growing family.",
+                    "zip": "2200",
+                    "city": "K\u00f8benhavn N",
+                    "address": "Tagensvej 60, 3.tv",
+                    "price": 800000,
+                    "bedrooms": 2,
+                    "bathrooms": 1,
+                    "meters": 74,
+                    "viewed": 0,
+                    "liked": 3,
+                    "image": "5d80bf590e103nyapp1.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80b3cd4317e": {
+            "id": "agent5d80b3cd4317e",
+            "firstname": "Sebastian",
+            "lastname": "J\u00f8rgensen",
+            "email": "sebastianjorgensen-umbrella@email.com",
+            "password": "agent123",
+            "address": "S\u00f8ndergade 12",
+            "city": "2660 Br\u00f8ndby Strand",
+            "country": "Denmark",
+            "activationKey": "5d80b3cd43190",
+            "activated": 0,
+            "profilepicture": "5d80b3cd42c3d.png",
+            "properties": {
+                "5d80bfef9fba8": {
+                    "title": "N\u00f8rrebrogade",
+                    "description": "Embrace the spirit of DIY with this original cottage occupying a peaceful street position. This charming weatherboard home features 3 roomy bedrooms and bright, open living spaces. There\u2019s plenty of potential for the savvy investor or first home buyer.",
+                    "zip": "2200",
+                    "city": "K\u00f8benhavn N",
+                    "address": "N\u00f8rrebrogade 32, 3.th",
+                    "price": 980000,
+                    "bedrooms": 2,
+                    "bathrooms": 1,
+                    "meters": 70,
+                    "viewed": 0,
+                    "liked": 4,
+                    "image": "5d80bfef9f689nyapp2.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80b3f49faad": {
+            "id": "agent5d80b3f49faad",
+            "firstname": "Mette",
+            "lastname": "Lind",
+            "email": "mettelind-umbrella@email.com",
+            "password": "agent123",
+            "address": "Skelv\u00e6nget 50",
+            "city": "1416 K\u00f8benhavn K",
+            "country": "Denmark",
+            "activationKey": "5d80b3f49faaf",
+            "activated": 0,
+            "profilepicture": "5d80cdac514b1agenttt.jpg",
+            "properties": {
+                "5d80c0842af4d": {
+                    "title": "Flydedokken",
+                    "description": "This apartment comes complete with two living rooms, a welcoming kitchen\/dining area, two bathrooms, three bedrooms, a study and a laundry, and retains the value of peaceful living while being conveniently close to shops, school and transport.",
+                    "zip": "2450",
+                    "city": "K\u00f8benhavn SV",
+                    "address": "Flydedokken 19, 4.tv",
+                    "price": 2200000,
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "meters": 132,
+                    "viewed": 0,
+                    "liked": 15,
+                    "image": "5d80c0842a687app3.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80b426b42aa": {
+            "id": "agent5d80b426b42aa",
+            "firstname": "Caroline",
+            "lastname": "Christiansen",
+            "email": "carolinechristiansen-umbrella@email.com",
+            "password": "agent123",
+            "address": "Faaborgvej 7",
+            "city": "1571 K\u00f8benhavn V",
+            "country": "Denmark",
+            "activationKey": "5d80b426b42b3",
+            "activated": 0,
+            "profilepicture": "5d80b426b3d5c.jpg",
+            "properties": {
+                "5d80c1612d260": {
+                    "title": "Vesterbrogade",
+                    "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Copenhagen, perfect for those looking for a functional and high standard accommodation.",
+                    "zip": "1799",
+                    "city": "K\u00f8benhavn V",
+                    "address": "Vesterbrogade 89, st.tv",
+                    "price": 920000,
+                    "bedrooms": 2,
+                    "bathrooms": 2,
+                    "meters": 78,
+                    "viewed": 0,
+                    "liked": 8,
+                    "image": "5d80ce1d54b23vesterbro.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80d840bb9bf": {
+            "id": "agent5d80d840bb9bf",
+            "firstname": "Mikkel",
+            "lastname": "S\u00f8rensen",
+            "email": "mikkelsorensen-umbrella@email.com",
+            "password": "agent123",
+            "address": "Fr\u00f8rupvej 12",
+            "city": "1149 K\u00f8benhavn K",
+            "country": "Denmark",
+            "activationKey": "5d80d840bb9c3",
+            "activated": 0,
+            "profilepicture": "5d80d840bb5b0.jpeg",
+            "properties": {
+                "5d80daed6cea0": {
+                    "title": "Bendzvej",
+                    "description": "This immaculately presented apartment is set amongst manicured grounds within a private and secure complex. As a resident you will have access to lifestyle amenities including a lap pool, gymnasium, communal terraces, concierge service and basement parking.",
+                    "zip": "2000",
+                    "city": "Frederiksberg",
+                    "address": "Bendzvej 2",
+                    "price": 3200000,
+                    "bedrooms": 4,
+                    "bathrooms": 2,
+                    "meters": 210,
+                    "viewed": 0,
+                    "liked": 1,
+                    "image": "5d80daed6c7efhouse1.jpg",
+                    "uploaded": "17-Sep-19"
+                },
+                "5d80dbc045421": {
+                    "title": "Nordre All\u00e9",
+                    "description": "Embrace the spirit of DIY with this original cottage occupying a peaceful street position. This charming weatherboard home features 3 roomy bedrooms and bright, open living spaces. There\u2019s plenty of potential for the savvy investor or first home buyer.",
+                    "zip": "2500",
+                    "city": "Valby",
+                    "address": "Nordre All\u00e9",
+                    "price": 3700000,
+                    "bedrooms": 5,
+                    "bathrooms": 2,
+                    "meters": 246,
+                    "viewed": 0,
+                    "liked": 0,
+                    "image": "5d80dbc0445d6house2.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80d872a5382": {
+            "id": "agent5d80d872a5382",
+            "firstname": "Magnus",
+            "lastname": "Skov",
+            "email": "magnusskov-umbrella@email.com",
+            "password": "agent123",
+            "address": "Kohaven 98",
+            "city": "1672 K\u00f8benhavn V",
+            "country": "Denmark",
+            "activationKey": "5d80d872a5387",
+            "activated": 0,
+            "profilepicture": "5d80d872a4f81.jpg",
+            "properties": {
+                "5d80dc31e827b": {
+                    "title": "Vigerslev All\u00e9",
+                    "description": "This immaculately presented apartment is set amongst manicured grounds within a private and secure complex. As a resident you will have access to lifestyle amenities including a lap pool, gymnasium, communal terraces, concierge service and basement parking.",
+                    "zip": "2500",
+                    "city": "Valby",
+                    "address": "Vigerslev All\u00e9 158",
+                    "price": 2500000,
+                    "bedrooms": 5,
+                    "bathrooms": 3,
+                    "meters": 265,
+                    "viewed": 0,
+                    "liked": 0,
+                    "image": "5d80dc524d554house3.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80d8a0151de": {
+            "id": "agent5d80d8a0151de",
+            "firstname": "Mie",
+            "lastname": "Nygaard",
+            "email": "mienygaard-umbrella@email.com",
+            "password": "agent123",
+            "address": "Ulriksholmvej 74",
+            "city": "9240 Nibe",
+            "country": "Denmark",
+            "activationKey": "5d80d8a0151e3",
+            "activated": 0,
+            "profilepicture": "5d80d8a014ed1.jpg",
+            "properties": {
+                "5d80dd62bd5b7": {
+                    "title": "Englandsvej",
+                    "description": "Cool, calm and sophisticated with a youthful edge, this functional home is enveloped in light and comfort. Crisp white walls, timber floors and high ceilings create a style as timeless as the sparkling ocean view. The calming sea vista, captured through the extensive use of glass, will help you forget your city stress.",
+                    "zip": "2300",
+                    "city": "K\u00f8benhavn S",
+                    "address": "Englandsvej 12, 1.tv",
+                    "price": 2100000,
+                    "bedrooms": 3,
+                    "bathrooms": 1,
+                    "meters": 95,
+                    "viewed": 0,
+                    "liked": 0,
+                    "image": "5d80dd62bccb1newap1.jpg",
+                    "uploaded": "17-Sep-19"
+                },
+                "5d80ddb811251": {
+                    "title": "Raffinaderivej",
+                    "description": "Hidden away on the fringe of the city is this charming four bedroom residence plus study on a lush, leafy oasis. On the entry level is a rumpus room complete with fireplace, garage access, laundry and recently remodeled bathroom.",
+                    "zip": "2300",
+                    "city": "K\u00f8benhavn S",
+                    "address": "Raffinaderivej 2, 2.th",
+                    "price": 2000000,
+                    "bedrooms": 2,
+                    "bathrooms": 2,
+                    "meters": 86,
+                    "viewed": 0,
+                    "liked": 0,
+                    "image": "5d80ddb810383newap2.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80decc832c0": {
+            "id": "agent5d80decc832c0",
+            "firstname": "Emily",
+            "lastname": "S\u00f8ndergaard",
+            "email": "emilysondergaard-umbrella@email.com",
+            "password": "agent123",
+            "address": "Andek\u00e6ret 51",
+            "city": "1662 K\u00f8benhavn V",
+            "country": "Denmark",
+            "activationKey": "5d80decc832c5",
+            "activated": 0,
+            "profilepicture": "5d80decc82aed.jpg",
+            "properties": {
+                "5d80df7025d90": {
+                    "title": "Birkedommervej",
+                    "description": "Hidden away on the fringe of the city is this charming four bedroom residence plus study on a lush, leafy oasis. On the entry level is a rumpus room complete with fireplace, garage access, laundry and recently remodeled bathroom.",
+                    "zip": "2400",
+                    "city": "K\u00f8benhavn NV",
+                    "address": "Birkedommervej 22, 2.tv",
+                    "price": 1900000,
+                    "bedrooms": 2,
+                    "bathrooms": 2,
+                    "meters": 100,
+                    "viewed": 0,
+                    "liked": 1,
+                    "image": "5d80df70253b5newap3.jpg",
+                    "uploaded": "17-Sep-19"
+                },
+                "5d80dfb00a038": {
+                    "title": "Hovmestervej",
+                    "description": "This immaculately presented apartment is set amongst manicured grounds within a private and secure complex. As a resident you will have access to lifestyle amenities including a lap pool, gymnasium, communal terraces, concierge service and basement parking.",
+                    "zip": "2400",
+                    "city": "K\u00f8benhavn NV",
+                    "address": "Hovmestervej 6, 4.th",
+                    "price": 1700000,
+                    "bedrooms": 2,
+                    "bathrooms": 1,
+                    "meters": 71,
+                    "viewed": 0,
+                    "liked": 0,
+                    "image": "5d80dfb0097denewap4.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80deed5fc01": {
+            "id": "agent5d80deed5fc01",
+            "firstname": "Line",
+            "lastname": "Pedersen",
+            "email": "linepedersen-umbrella@email.com",
+            "password": "agent123",
+            "address": "Revninge Bygade 99",
+            "city": "7550 S\u00f8rvad",
+            "country": "Denmark",
+            "activationKey": "5d80deed5fc10",
+            "activated": 0,
+            "profilepicture": "5d80deed5f7b0.jpg",
+            "properties": {
+                "5d80e00d77133": {
+                    "title": "Fan\u00f8gade",
+                    "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Copenhagen, perfect for those looking for a functional and high standard accommodation.",
+                    "zip": "2100",
+                    "city": "K\u00f8benhavn \u00d8",
+                    "address": "Fan\u00f8gade 14",
+                    "price": 3100000,
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "meters": 130,
+                    "viewed": 0,
+                    "liked": 0,
+                    "image": "5d80e00d7676anewap5.jpeg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80e2a0ed043": {
+            "id": "agent5d80e2a0ed043",
+            "firstname": "Jakob",
+            "lastname": "Olesen",
+            "email": "jakobolesen-umbrella@email.com",
+            "password": "agent123",
+            "address": "Espegyden 56",
+            "city": "9320 Hjallerup",
+            "country": "Denmark",
+            "activationKey": "5d80e2a0ed04b",
+            "activated": 0,
+            "profilepicture": "5d80e2a0ec435.jpg",
+            "properties": {
+                "5d80e35e6e353": {
+                    "title": "Gl. Kongevej",
+                    "description": "Embrace the spirit of DIY with this original cottage occupying a peaceful street position. This charming weatherboard home features 3 roomy bedrooms and bright, open living spaces. There\u2019s plenty of potential for the savvy investor or first home buyer.",
+                    "zip": "1799",
+                    "city": "K\u00f8benhavn V",
+                    "address": "Gl. Kongevej 44, 2.tv",
+                    "price": 3000000,
+                    "bedrooms": 2,
+                    "bathrooms": 3,
+                    "meters": 98,
+                    "viewed": 0,
+                    "liked": 2,
+                    "image": "5d80e35e6d961lej1.jpg",
+                    "uploaded": "17-Sep-19"
+                },
+                "5d80e3ce9f23f": {
+                    "title": "Peter Bangs Vej",
+                    "description": "Hidden away on the fringe of the city is this charming four bedroom residence plus study on a lush, leafy oasis. On the entry level is a rumpus room complete with fireplace, garage access, laundry and recently remodeled bathroom.",
+                    "zip": "2000",
+                    "city": "Frederiksberg",
+                    "address": "Peter Bangs Vej 32, 5.th",
+                    "price": 3200000,
+                    "bedrooms": 5,
+                    "bathrooms": 2,
+                    "meters": 190,
+                    "viewed": 0,
+                    "liked": 2,
+                    "image": "5d80e3ce9eaeblej2.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80e2c85cbea": {
+            "id": "agent5d80e2c85cbea",
+            "firstname": "Bertram",
+            "lastname": "Berg",
+            "email": "bertramberg-umbrella@email.com",
+            "password": "agent123",
+            "address": "S\u00f8ndergade 74",
+            "city": "7182 Bredsten",
+            "country": "Denmark",
+            "activationKey": "5d80e2c85cbef",
+            "activated": 0,
+            "profilepicture": "5d80e2c85c3b4.jpg",
+            "properties": {
+                "5d80e48a7d14f": {
+                    "title": "Enghavevej",
+                    "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Copenhagen, perfect for those looking for a functional and high standard accommodation.",
+                    "zip": "2450",
+                    "city": "K\u00f8benhavn SV",
+                    "address": "Enghavevej 168, 2.tv",
+                    "price": 2700000,
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "meters": 120,
+                    "viewed": 0,
+                    "liked": 1,
+                    "image": "5d80e48a7be39lej3.jpg",
+                    "uploaded": "17-Sep-19"
+                },
+                "5d80e4f878b2e": {
+                    "title": "Bellah\u00f8jvej",
+                    "description": "Cool, calm and sophisticated with a youthful edge, this functional home is enveloped in light and comfort. Crisp white walls, timber floors and high ceilings create a style as timeless as the sparkling ocean view. The calming sea vista, captured through the extensive use of glass, will help you forget your city stress.",
+                    "zip": "2700",
+                    "city": "Br\u00f8nsh\u00f8j",
+                    "address": "Bellah\u00f8jvej 43, st.th",
+                    "price": 1900000,
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "meters": 167,
+                    "viewed": 0,
+                    "liked": 1,
+                    "image": "5d80e4f8782eelej4.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80e2e5de113": {
+            "id": "agent5d80e2e5de113",
+            "firstname": "Silke",
+            "lastname": "Ravn",
+            "email": "silkeravn-umbrella@email.com",
+            "password": "agent123",
+            "address": "Bygmestervej 86",
+            "city": "1601 K\u00f8benhavn V",
+            "country": "Denmark",
+            "activationKey": "5d80e2e5de118",
+            "activated": 0,
+            "profilepicture": "5d80e2e5ddd21.jpg",
+            "properties": {
+                "5d80e58dc1aac": {
+                    "title": "Hvidovrevej",
+                    "description": "Embrace the spirit of DIY with this original cottage occupying a peaceful street position. This charming weatherboard home features 3 roomy bedrooms and bright, open living spaces. There\u2019s plenty of potential for the savvy investor or first home buyer.",
+                    "zip": "2650",
+                    "city": "Hvidovre",
+                    "address": "Hvidovrevej 126, 2.tv",
+                    "price": 2900000,
+                    "bedrooms": 5,
+                    "bathrooms": 2,
+                    "meters": 180,
+                    "viewed": 0,
+                    "liked": 1,
+                    "image": "5d80e58dc1222lej5.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        },
+        "agent5d80e65c70151": {
+            "id": "agent5d80e65c70151",
+            "firstname": "Sofie",
+            "lastname": "Gregersen",
+            "email": "sofiegregersen-umbrella@email.com",
+            "password": "agent123",
+            "address": "Brogade 21",
+            "city": "6700 Esbjerg",
+            "country": "Denmark",
+            "activationKey": "5d80e65c70155",
+            "activated": 0,
+            "profilepicture": "5d80e65c6f9e5.jpg",
+            "properties": {
+                "5d80e6c955192": {
+                    "title": "Hindholm All\u00e9",
+                    "description": "Embrace the spirit of DIY with this original cottage occupying a peaceful street position. This charming weatherboard home features 3 roomy bedrooms and bright, open living spaces. There\u2019s plenty of potential for the savvy investor or first home buyer.",
+                    "zip": "2770",
+                    "city": "Kaastrup",
+                    "address": "Hindholm All\u00e9 5",
+                    "price": 19000000,
+                    "bedrooms": 10,
+                    "bathrooms": 4,
+                    "meters": 420,
+                    "viewed": 0,
+                    "liked": 2,
+                    "image": "5d80e6c9546bemansion.jpg",
+                    "uploaded": "17-Sep-19"
+                },
+                "5d80e77946379": {
+                    "title": "Kalvebodvej",
+                    "description": "This immaculately presented apartment is set amongst manicured grounds within a private and secure complex. As a resident you will have access to lifestyle amenities including a lap pool, gymnasium, communal terraces, concierge service and basement parking.",
+                    "zip": "2791",
+                    "city": "Drag\u00f8r",
+                    "address": "Kalvebodvej 166",
+                    "price": 22000000,
+                    "bedrooms": 10,
+                    "bathrooms": 5,
+                    "meters": 390,
+                    "viewed": 0,
+                    "liked": 2,
+                    "image": "5d80e7794578emansion2.jpg",
+                    "uploaded": "17-Sep-19"
+                }
+            }
+        }
+    }
+}
